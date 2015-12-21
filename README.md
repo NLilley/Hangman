@@ -3,6 +3,7 @@
 A simple Hangman game written in c# with WPF.
 
 ##Features:
+
 *The simple hangman game
 *Difficulty select
 *Language select
