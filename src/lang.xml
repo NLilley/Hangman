@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+  <English>
+    <CharacterSet>ABCDEFGHIJKLMNOPQRSTUVWXYZ</CharacterSet>
+    <EasyWords>.\assets\dictionary\words.txt</EasyWords>
+    <MediumWords>.\assets\dictionary\words.txt</MediumWords>
+    <HardWords>.\assets\dictionary\words.txt</HardWords>
+  </English>
+  <German>
+    <CharacterSet>ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜß</CharacterSet>
+    <EasyWords>.\assets\dictionary\words.txt</EasyWords>
+    <MediumWords>.\assets\dictionary\words.txt</MediumWords>
+    <HardWords>.\assets\dictionary\words.txt</HardWords>
+  </German>
+</Language>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Localisation>
+  <Language Name="English">
+    <CharacterSet>ABCDEFGHIJKLMNOPQRSTUVWXYZ</CharacterSet>
+    <EasyDictionary>.\assets\dictionary\English\easy.txt</EasyDictionary>
+    <MediumDictionary>.\assets\dictionary\English\medium.txt</MediumDictionary>
+    <HardDictionary>.\assets\dictionary\English\hard.txt</HardDictionary>
+    <EasyString>EASY</EasyString>
+    <MediumString>MEDIUM</MediumString>
+    <HardString>HARD</HardString>
+    <OptionsString>OPTIONS</OptionsString>
+    <MenuString>MENU</MenuString>
+    <ReplayString>PLAY</ReplayString>
+    <YouWinString>YOU WIN!</YouWinString>
+    <YouLoseString>YOU LOSE!</YouLoseString>
+    <CreditsString>CREDITS</CreditsString>
+    <MuteString>MUTE</MuteString>
+  </Language>
+  <Language Name="Deutsch">
+    <CharacterSet>ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜß</CharacterSet>
+    <EasyDictionary>.\assets\dictionary\Deutsch\leicht.txt</EasyDictionary>
+    <MediumDictionary>.\assets\dictionary\Deutsch\medium.txt</MediumDictionary>
+    <HardDictionary>.\assets\dictionary\Deutsch\schwer.txt</HardDictionary>
+    <EasyString>LEICHT</EasyString>
+    <MediumString>MEDIUM</MediumString>
+    <HardString>SCHWER</HardString>
+    <OptionsString>OPTIONEN</OptionsString>
+    <MenuString>MENÜ</MenuString>
+    <ReplayString>SPIELEN</ReplayString>
+    <YouWinString>DU GEWINNST!</YouWinString>
+    <YouLoseString>DU VERLIERST!</YouLoseString>
+    <CreditsString>ABSPANN</CreditsString>
+    <MuteString>MUTE</MuteString>
+  </Language>
+</Localisation>
